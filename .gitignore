@@ -1,0 +1,9 @@
+# caches
+.vscode
+__pycache__/
+
+# graphs
+*.dot
+*.dot.pdf
+*.svg
+# *.pdf
